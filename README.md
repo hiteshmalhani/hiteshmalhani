@@ -1,10 +1,12 @@
 # 💫 About Me:
-Hitesh Malhani
-🔭 Currently building AI agents and decision-making systems — most recently an autonomous agent with custom trust scoring and a Groq → Gemini → rule-based LLM fallback pipeline
-🌱 Currently learning applied machine learning and production-grade LLM system design
-👯 Looking to collaborate on data science, AI/ML, and applied Python projects
-💬 Ask me about trust/reputation modeling, LLM pipelines, or Python architecture
-⚡ Fun fact: I test before I trust — every system I build has an offline fallback for when the APIs don't
+# Hitesh Malhani
+
+# 🔭 Currently building AI agents and decision-making systems — 
+# most recently an autonomous agent with custom trust scoring and a Groq → Gemini → rule-based LLM fallback pipeline
+# 🌱 Currently learning applied machine learning and production-grade LLM system design
+# 👯 Looking to collaborate on data science, AI/ML, and applied Python projects
+# 💬 Ask me about trust/reputation modeling, LLM pipelines, or Python architecture
+# ⚡ Fun fact: I test before I trust — every system I build has an offline fallback for when the APIs don't
 
 
 ## 🌐 Socials:
